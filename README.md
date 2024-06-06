@@ -1,1 +1,2 @@
 # Krishna-Tiwari-Details
+Experienced Full Stack Web Developer with 2 years of hands-on experience. Proficient in a wide range of technologies including Node.js, Flask, Angular, JavaScript, Python, C++, MongoDB, HTML, and CSS. Skilled in developing robust and user-friendly web applications, implementing data structures, and utilizing databases for efficient data management. Passionate about learning new technologies and delivering high-quality code to meet project requirements.
